@@ -11,3 +11,15 @@ Ejercicio de protocolos y otros scripts de la UF2
 ###### Sexta cabecera, ¿estamos locos?
 
 Vamos a trabajar con **estilos de letra** para dar *énfasis*
+
+Y ésto es ***MUCHO ÉNFASIS***
+
+## Bloques en MarkDown
+> Ésto es una cita
+>
+> Puede ser una línea o varias. Si la misma cita tiene varias líneas, hasta las líneas vacías han de tener ">" (mayor que)
+
+Pero también...
+
+> Podemos tener
+>> Citas dentro de citas :D
