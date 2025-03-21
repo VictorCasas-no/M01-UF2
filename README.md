@@ -38,3 +38,20 @@ Pero también...
 2. Segundo
 3. Tercero
 4. Cuarto
+
+## Código
+
+Ésto es JavaScript `console.log("hola")`
+
+Y ésto es un bloque de código
+
+```css
+body{
+margin:0;
+}
+```
+
+
+
+
+
