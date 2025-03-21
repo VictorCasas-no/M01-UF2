@@ -74,9 +74,9 @@ Mira que ésto es [un enlace](https://enti.cat) a la mejor web del planeta
 
 [https://enti.cat](https://enti.cat)
 
+## Imágenes
 
-
-
+![Logo de MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png)
 
 
 
