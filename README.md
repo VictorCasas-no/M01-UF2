@@ -68,3 +68,15 @@ margin:0;
 > [!CAUTION]
 > Si te equivocas te vas a tomar *viento*
 
+## Enlaces
+
+Mira que ésto es [un enlace](https://enti.cat) a la mejor web del planeta
+
+[https://enti.cat](https://enti.cat)
+
+
+
+
+
+
+
