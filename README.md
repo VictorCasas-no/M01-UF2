@@ -12,7 +12,7 @@ Ejercicio de protocolos y otros scripts de la UF2
 
 Vamos a trabajar con **estilos de letra** para dar *énfasis*
 
-Y ésto es ***MUCHO ÉNFASIS***
+Y ésto es ***MUCHO ÉNFASIS***   **hola \***    ***\*\****
 
 ## Bloques en MarkDown
 > Ésto es una cita
@@ -23,3 +23,18 @@ Pero también...
 
 > Podemos tener
 >> Citas dentro de citas :D
+
+## Listados
+
+### Sin orden
+
+- Un elemento
+- Otro elemento
+- Ésto es otro elemento de *lista*
+
+### Listados ordenados
+
+1. Primero
+2. Segundo
+3. Tercero
+4. Cuarto
