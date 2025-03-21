@@ -51,7 +51,20 @@ margin:0;
 }
 ```
 
+## Anotaciones y avisos
 
+> [!NOTE]
+> Ésto es una nota
 
+> [!TIP]
+> Ésto es un resaltado
 
+> [!WARNING]
+> Cuidado que algo puede salir mal
+
+> [!IMPORTANT]
+> Ojito no te dejes el **WHERE** en el **DELETE FROM**
+
+> [!CAUTION]
+> Si te equivocas te vas a tomar *viento*
 
